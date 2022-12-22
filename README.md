@@ -3,7 +3,7 @@
 
 
 
-# mlRegression
+# mlClassification
 #### _Predicting Colorado's Forest Type Cover using Machine Learning._
 
 ## 1. Introduction
